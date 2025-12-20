@@ -31,7 +31,6 @@ Atuamos desde a concepção até a evolução de sistemas, sempre priorizando bo
 ### Banco de dados
 
 * **MySQL**
-* **Oracle Database**
 
 ### Infraestrutura
 
